@@ -11,8 +11,8 @@ color (e.g., "blue", "green", or "red") and the color it is printed on (i.e., th
 blue ink instead of red ink). When asked to name the color of the word it takes longer and is
 more prone to errors when the color of the ink does not match the name of the color.
 
-- Congruent (Compatible): The color of the word and the meaning is the same
-- Incongruent (Incompatible): The color of the word and the meaning is different
+- **Congruent (Compatible)**: The color of the word and the meaning is the same
+- **Incongruent (Incompatible)**: The color of the word and the meaning is different
 
 You can read more in the above [pdf file](./stroop_task.pdf).
 
