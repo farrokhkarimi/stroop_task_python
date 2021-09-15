@@ -45,6 +45,8 @@ pip3 install requirements.txt
 ```
 You can run the code via the above [py file](./stroop_task.py).
 
+This code is run and tested on Spyder Windows
+
 # Reference and more info
 
 **Reference:**
