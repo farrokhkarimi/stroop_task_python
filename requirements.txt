@@ -1,0 +1,4 @@
+# pythonic packages requirements
+
+termcolor
+pynput
