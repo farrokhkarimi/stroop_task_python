@@ -45,7 +45,7 @@ pip3 install requirements.txt
 ```
 You can run the code via the above [py file](./stroop_task.py).
 
-# Acknowledgments
+# Reference and more info
 
 **Reference:**
 https://www.psytoolkit.org/experiment-library/stroop.html
